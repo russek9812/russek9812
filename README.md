@@ -8,7 +8,7 @@
 <summary> 
   
 ## Experiencia Profesional: </summary>
-***- BANOBRAS S.N.C. | Fondo Nacional de Infraestructura (FONADIN)*** | Analista de Planeación Financiera | Feb 2023 – Oct 2025
+***- BANOBRAS S.N.C. | FONADIN*** | Analista Financiero | Feb 2023 – Oct 2025
  
  <!-- Administración y valuación de activos que posee el fideicomiso FONADIN.
 *	Apoyo en la Programación Financiera Anual y actualizaciones.
@@ -17,9 +17,10 @@
 *	Análisis de viabilidad financiera del fideicomiso.
 -->
 
-***- Secretaría de Hacienda y Crédito Público (SHCP)*** | Servicio Social | Unidad de Política de Ingresos No Tributarios | Oct 2021 – May 2022
+***- Secretaría de Hacienda y Crédito Público (SHCP)*** | Servicio Social | Oct 2021 – May 2022
 
-<!--Análisis estadístico de precios de la gasolina (INEGI, R-Studio).
+<!-- Unidad de Política de Ingresos No Tributarios
+Análisis estadístico de precios de la gasolina (INEGI, R-Studio).
 *	Elaboración de informes técnicos y estudios comparativos.
 *	Análisis del mercado de hidrocarburos.
 * Procesamiento y visualización de datos para políticas públicas.
