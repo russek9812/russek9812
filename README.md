@@ -1,8 +1,5 @@
-<p alling=*center*>
-<h1> Rafael Russek </h1>
-  
-  ### Actuario | Cédula Profecional: 15183958 
-</p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=100&center=true&vCenter=true&multiline=true&width=600&height=200&lines=Rafael+Russek;Actuario+%7C+Analista+Financiero;C%C3%A9dula+Profesional%3A+15183958+" alt="Typing SVG" /></a>
 
 <details open>
 <summary> 
